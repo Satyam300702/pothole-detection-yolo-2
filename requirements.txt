@@ -1,0 +1,7 @@
+streamlit
+ultralytics
+<<<<<<< HEAD
+opencv-python
+=======
+opencv-python-headless
+>>>>>>> ddecafb (Fix OpenCV dependency for Streamlit deployment)

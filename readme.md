@@ -1,6 +1,9 @@
-# 🚧 Pothole Detection & Tracking using YOLO
+# 🚧 Pothole Detection, Tracking & Counting using YOLO
 
-A Computer Vision project that detects potholes in road videos using a **custom-trained YOLO model** and tracks detected potholes across video frames using **ByteTrack**.
+
+
+A Computer Vision system that detects, tracks and counts potholes
+from road videos using YOLO and ByteTrack.
 
 The project also includes a **Streamlit-based web interface** that allows users to upload road videos, adjust detection settings, process the video, visualize the results, and download the processed output.
 
@@ -94,6 +97,7 @@ Python	Main programming language
 YOLO	Pothole detection
 Ultralytics	YOLO implementation
 OpenCV	Video processing
+Object counting
 ByteTrack	Object tracking
 Streamlit	Web application
 Git & GitHub	Version control and project hosting
@@ -115,6 +119,7 @@ Hyperparameter experimentation
 Data augmentation
 Video processing with OpenCV
 Object tracking
+Object counting
 ByteTrack
 Streamlit application development
 Handling uploaded files
